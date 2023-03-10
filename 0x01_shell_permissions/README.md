@@ -6,3 +6,5 @@
 ## change owner of file hello
 # 4-empty
 ## create an empty hello file
+# 5-execute
+## change form into read/write/execute for hello
