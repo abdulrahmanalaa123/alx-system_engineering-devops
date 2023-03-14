@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 's/[A-a]/[Z-z]' 's/[C-c]/[E-e]'
+sed -i 's/[A-a]/[Z-z]' 's/[C-c]/[E-e]'
